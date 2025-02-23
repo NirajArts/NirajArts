@@ -1,44 +1,36 @@
-# Welcome to NirajArts' Universe 🚀
+# 🚀 Welcome to NirajArts' Galactic Dev Realm! 🚀
 
-*Game Developer | Digital Dreamer | Sci‑Fi Enthusiast*
-
-![Sci‑Fi Animation](https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif)
-
----
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsUQ6zbg4U4k3fG/giphy.gif" alt="Sci-Fi Animation" width="600">
+</p>
 
 ## About Me
-Hello! I'm **NirajArts**, a passionate game developer who fuses art with cutting‑edge technology to create immersive, futuristic worlds. With a deep love for sci‑fi aesthetics and storytelling, I strive to craft experiences that transport players into realms beyond imagination.
 
----
+Hello! I'm **NirajArts**, a passionate game developer on a mission to bring futuristic worlds to life. My journey in game development is fueled by creativity, innovation, and a love for all things sci-fi. Whether it's crafting immersive universes or fine-tuning gameplay mechanics, I’m all about pushing the boundaries of interactive experiences.
+
+## Purpose
+
+This GitHub profile is my creative hub—a place where art meets code and every project is a new adventure. Here, I showcase my explorations in game development, innovative ideas, and the evolution of my craft as I build interactive realms that challenge the imagination.
 
 ## Projects & Skills
-I thrive on pushing the boundaries of interactive design. My work spans from innovative game prototypes to visually striking digital art projects—all with a sci‑fi twist.
 
-**Key Skills:**
-- **Game Development:** Designing and programming interactive experiences.
-- **Digital Art & Animation:** Crafting vibrant visuals and dynamic animations.
-- **Sci‑Fi & Fantasy Design:** Building futuristic worlds that captivate and inspire.
-- **Creative Problem Solving:** Developing unique solutions in narrative and gameplay.
+- **Game Development:** Designing immersive experiences using modern game engines.
+- **Programming:** Proficient in languages such as C#, C++, and Python.
+- **Art & Design:** Skilled in 2D/3D art creation, level design, and UI/UX innovation.
+- **Innovation:** Always exploring new technologies and trends in the gaming universe.
 
-**Featured Projects:**
-- **Project A – Galactic Quest:** An interstellar adventure where every decision shapes your destiny. [Learn More](#)
-- **Project B – Neon City Chronicles:** Explore a futuristic metropolis filled with secrets and dynamic challenges. [Learn More](#)
-- _More projects coming soon!_
+Check out my projects to see the evolution of my work, from indie gems to experimental art installations!
 
----
+## Fun Animations & Sci-Fi Flair
 
-## Contact & Links
-I’m always excited to connect with fellow creators and enthusiasts. Reach out or explore more of my work here:
+Dive into a world where code and cosmos collide! Enjoy the interactive demos, animations, and media sprinkled throughout my profile to get a taste of the futuristic adventure that awaits.
 
-- **GitHub:** [NirajArts](https://github.com/NirajArts)
-- **Portfolio:** [Your Portfolio](#)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn](#)
-- **Twitter:** [Your Twitter](#)
-
----
-
-> "Innovation distinguishes between a leader and a follower."  
-> – Inspired by Steve Jobs
-
-Let’s build something extraordinary together—into the cosmos and beyond! 🚀🌌
+<details>
+  <summary><strong>Cool Header Text Animation</strong></summary>
+  
+  ```html
+  <div style="font-family: 'Orbitron', sans-serif; font-size: 2rem; color: #00ffea;">
+    <marquee behavior="scroll" direction="left" scrollamount="5">
+      Welcome to NirajArts' Galactic Dev Realm! &nbsp; ✨🚀
+    </marquee>
+  </div>
