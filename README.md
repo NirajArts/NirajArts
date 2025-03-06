@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=//%20Artist,%20Indie%20and%20Web3%20Game%20Dev&loop=true" alt="Typing SVG" />
 
-![thumbnail.png](https://i.postimg.cc/t4zWHK5B/thumbnail.png)
+[![thumbnail.png](https://i.postimg.cc/t4zWHK5B/thumbnail.png)](https://www.youtube.com/NirajArts)
 
 ## About:
 - Passionate game developer on a mission to bring futuristic worlds to life.
