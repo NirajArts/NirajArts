@@ -14,7 +14,7 @@ I am <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000
 - Building expertise in blockchain app design for game development.
 
 ## My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirajArts&show_icons=true&theme=radical)
 
 ## My Game Projects:
 - [Game1](#)
