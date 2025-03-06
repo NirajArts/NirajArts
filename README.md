@@ -1,4 +1,4 @@
-### I am Niraj
+## I am Niraj
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=3D%20Artist,Indie%20and%20Web3%20Game%20Developer,Animator&loop=true" alt="Typing SVG" />
 
@@ -13,15 +13,20 @@
 - Diving into Web3 and blockchain development for gaming.
 - Building expertise in blockchain app design for game development.
 
+<!-- 
 ## My GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirajArts&show_icons=true&theme=radical)
+-->
 
-## My Game Projects:
-- **Game1**  
-  [![Game1 Banner](https://via.placeholder.com/600x200?text=Game1+Banner)](#)
+# My Game Projects:
+- ### **Temporal Odyssey**  
+  [![Game1 Banner](https://img.itch.zone/aW1nLzE4NDgzMzk1LmpwZw==/original/KyzzhI.jpg)](#)
 
-- **Game2**  
-  [![Game2 Banner](https://via.placeholder.com/600x200?text=Game2+Banner)](#)
+- ### **The Unavaoidables**  
+  [![Game2 Banner](https://img.itch.zone/aW1hZ2UvMTQ2ODIzOS84NTY3Njk4LnBuZw==/original/zunB5A.png)](#)
+
+- ### **Bone Appetit**  
+  [![Game2 Banner](https://img.itch.zone/aW1hZ2UvMjA0MzgzNi8xMjAyMjcxNC5wbmc=/original/uD32ZI.png)](#)
 
 
 ## Let's Connect
