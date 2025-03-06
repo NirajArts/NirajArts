@@ -17,8 +17,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirajArts&show_icons=true&theme=radical)
 
 ## My Game Projects:
-- [Game1](#)
-- [Game2](#)
+- **Game1**  
+  [![Game1 Banner](https://via.placeholder.com/600x200?text=Game1+Banner)](#)
+
+- **Game2**  
+  [![Game2 Banner](https://via.placeholder.com/600x200?text=Game2+Banner)](#)
+
 
 ## Let's Connect
 🌟 Open to new opportunities, especially in the Web3 and Blockchain Gaming space.  
