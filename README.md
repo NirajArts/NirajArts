@@ -20,19 +20,20 @@
 
 # My Game Projects:
 - ### **Temporal Odyssey**  
-  [![Game1 Banner](https://img.itch.zone/aW1nLzE4NDgzMzk1LmpwZw==/original/KyzzhI.jpg)](#)
+  [![Game1 Banner](https://img.itch.zone/aW1nLzE4NDgzMzk1LmpwZw==/original/KyzzhI.jpg)](https://nirajarts.itch.io/temporal-odyssey)
 
 - ### **The Unavaoidables**  
-  [![Game2 Banner](https://img.itch.zone/aW1hZ2UvMTQ2ODIzOS84NTY3Njk4LnBuZw==/original/zunB5A.png)](#)
+  https://nirajarts.itch.io/the-unavoidables
 
-- ### **Bone Appetit**  
-  [![Game2 Banner](https://img.itch.zone/aW1hZ2UvMjA0MzgzNi8xMjAyMjcxNC5wbmc=/original/uD32ZI.png)](#)
+- ### **Bone Appetit**
+    https://nirajarts.itch.io/bone-appetit
 
 
 ## Let's Connect
 🌟 Open to new opportunities, especially in the Web3 and Blockchain Gaming space.  
-📫 Feel free to reach out for collaborations, blockchain gaming projects, or just to chat about the latest in web development!
+📫 Feel free to reach out for collaborations, blockchain gaming projects, or just to chat about the latest in game development!
 
+[![YouTube](https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/NirajArts) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/NirajArts) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/NirajArts) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nirajarts)
