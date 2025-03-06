@@ -27,4 +27,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/NirajArts) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/NirajArts) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nirajarts)
-[![Twitter (X)](https://img.shields.io/badge/X-7289DA?style=for-the-badge&logo=x&logoColor=white)](https://discord.com/users/NirajArts)
+[![Twitter (X)](https://img.shields.io/badge/X-7289DA?style=for-the-badge&logo=x&logoColor=white)](https://x.com/niraj_arts)
