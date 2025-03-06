@@ -21,7 +21,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirajArts&show_icons=true&theme=radical)
 -->
 
-# My Game Projects:
+## My Game Projects:
 - ### **Temporal Odyssey**  
   [![Game1 Banner](https://img.itch.zone/aW1nLzE4NDgzMzk1LmpwZw==/original/KyzzhI.jpg)](https://nirajarts.itch.io/temporal-odyssey)
 
@@ -32,9 +32,9 @@
     https://nirajarts.itch.io/bone-appetit
 
 
-## Let's Connect
-🌟 Open to new opportunities, especially in the Web3 and Blockchain Gaming space.  
-📫 Feel free to reach out for collaborations, blockchain gaming projects, or just to chat about the latest in game development!
+## Contact me
+- Open to new opportunities, especially in the Web3 and Blockchain Gaming space.  
+- Feel free to reach out for collaborations, blockchain gaming projects, or just to chat about the latest in game development!
 
 [![YouTube](https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/NirajArts) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/NirajArts) 
