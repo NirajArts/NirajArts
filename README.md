@@ -9,8 +9,7 @@
 - Always pushing the boundaries of interactive experiences.
 
 ## Currently Learning:
-- Mastering advanced backend modules.
-- Diving into Web3 and blockchain development for gaming.
+- Mastering advanced integration tools.
 - Building expertise in blockchain app design for game development.
 
 <!-- 
