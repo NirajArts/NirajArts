@@ -13,8 +13,8 @@
 - Always pushing the boundaries of interactive experiences.
 
 ## Currently Learning:
-- Mastering advanced integration tools.
-- Building expertise in blockchain app design for game development.
+- Building expertise integration tools.
+- Mastering blockchain app design for game development.
 
 <!-- 
 ## My GitHub Stats:
