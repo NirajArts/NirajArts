@@ -1,16 +1,30 @@
-# 🚀 Welcome to NirajArts' Galactic Dev Realm! 🚀
+### I am Niraj
 
-## About Me
+I am <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=3D%20Artist,Indie%20Game%20Developer,Web3%20Game%20Developer,Animator" alt="Typing SVG" />
 
-Hello! I'm **NirajArts**, a passionate game developer on a mission to bring futuristic worlds to life. My journey in game development is fueled by creativity, innovation, and a love for all things sci-fi. Whether it's crafting immersive universes or fine-tuning gameplay mechanics, I’m all about pushing the boundaries of interactive experiences.
+## About:
+- Passionate game developer on a mission to bring futuristic worlds to life.
+- Driven by creativity, innovation, and a deep love for sci-fi.
+- Committed to crafting immersive universes and refining gameplay mechanics.
+- Always pushing the boundaries of interactive experiences.
 
-## Purpose
+## Currently Learning:
+- Mastering advanced backend modules.
+- Diving into Web3 and blockchain development for gaming.
+- Building expertise in blockchain app design for game development.
 
-This GitHub profile is my creative hub—a place where art meets code and every project is a new adventure. Here, I showcase my explorations in game development, innovative ideas, and the evolution of my craft as I build interactive realms that challenge the imagination.
+## My GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-## Projects & Skills
+## My Game Projects:
+- [Game1](#)
+- [Game2](#)
 
-- **Game Development:** Designing immersive experiences using modern game engines.
-- **Programming:** Proficient in languages such as C# and blueprints.
-- **Art & Design:** Skilled in 2D/3D art creation, level design, and UI/UX innovation.
-- **Innovation:** Always exploring new technologies and trends in the gaming universe.
+## Let's Connect
+🌟 Open to new opportunities, especially in the Web3 and Blockchain Gaming space.  
+📫 Feel free to reach out for collaborations, blockchain gaming projects, or just to chat about the latest in web development!
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
