@@ -1,6 +1,6 @@
 ### I am Niraj
 
-I am <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=3D%20Artist,Indie%20&%20Web3%20Game%20Developer,Animator&loop=true" alt="Typing SVG" />
+I am <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=3D%20Artist,Indie%20and%20Web3%20Game%20Developer,Animator&loop=true" alt="Typing SVG" />
 
 ## About:
 - Passionate game developer on a mission to bring futuristic worlds to life.
