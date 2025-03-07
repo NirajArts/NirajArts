@@ -9,7 +9,7 @@
 ## 🎯About:
 - Passionate game developer on a mission to bring futuristic worlds to life.
 - Driven by creativity, innovation, and a deep love for sci-fi.
-- Committed to crafting immersive universes and refining gameplay mechanics.
+- Committed to building immersive and unque universes and refining gameplay mechanics.
 - Always pushing the boundaries of interactive experiences.
 
 
