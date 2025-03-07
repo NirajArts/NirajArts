@@ -6,13 +6,17 @@
 <h3 align="center">Hi, I am...</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=FAFAFA&center=true&vCenter=true&width=995&height=50&lines=%20%20+Artist%20%7C%20Game%20Dev%20%7C%20Web3%20Game%20Dev%20%7C%20XR%20Dev" align="middle" alt="Artist | Game Dev | Web3 Game Dev | XR Dev">
 
-## About:
+## 🎯About:
 - Passionate game developer on a mission to bring futuristic worlds to life.
 - Driven by creativity, innovation, and a deep love for sci-fi.
 - Committed to crafting immersive universes and refining gameplay mechanics.
 - Always pushing the boundaries of interactive experiences.
 
-## Currently Learning:
+
+### 🕹Currently working on onchain games for Send Arcade
+
+
+## 📝Currently Learning:
 - Building expertise integration tools.
 - Mastering blockchain app design for game development.
 
@@ -21,7 +25,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NirajArts&show_icons=true&theme=radical)
 -->
 
-## My Game Projects:
+## 🎮My Game Projects:
 - ### **Temporal Odyssey**  
   [![Game1 Banner](https://img.itch.zone/aW1nLzE4NDgzMzk1LmpwZw==/original/KyzzhI.jpg)](https://nirajarts.itch.io/temporal-odyssey)
 
@@ -32,7 +36,7 @@
     https://nirajarts.itch.io/bone-appetit
 
 
-## Contact me
+## ☎Contact me
 - Open to new opportunities, especially in the Web3 and Blockchain Gaming space.  
 - Feel free to reach out for collaborations, blockchain gaming projects, or just to chat about the latest in game development!
 
