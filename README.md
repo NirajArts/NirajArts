@@ -13,7 +13,7 @@
 - Always pushing the boundaries of interactive experiences.
 
 
-### 🕹Currently working on onchain games for Send Arcade
+### 🕹Currently working on onchain game projects
 
 
 ## 📝Currently Learning:
