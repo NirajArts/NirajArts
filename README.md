@@ -4,7 +4,7 @@
   </a>
 </p>
 <h3 align="center">Hi, I am...</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=FAFAFA&center=true&vCenter=true&width=995&height=50&lines=%20%20+Artist%20%7C%20Game%20Dev%20%7C%20Web3%20Game%20Dev%20%7C%20XR%20Dev" align="middle" alt="Artist | Game Dev | Web3 Game Dev | XR Dev">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=FAFAFA&center=true&vCenter=true&width=995&height=50&lines=%20%20+Artist%20%7C%20Game%20Dev%20%7C%20Web3%20Game%20Dev%20%7C%20XR%20Dev" align="middle" alt="Artist | Game Dev | Web3 Dev | XR Dev">
 
 ## 🎯About:
 - Passionate game developer on a mission to bring futuristic worlds to life.
